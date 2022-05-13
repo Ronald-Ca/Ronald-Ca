@@ -5,7 +5,7 @@
 
 - 📚 Buscando obter mais conhecimento em JavaScript e futuramente em React.
 
-- 👨‍💻 Não trabalho na área, porém procuro um trabalho ou estágio para que eu possa realmente aprender como me portar em um mercado de trabalho.
+- 👨‍💻 Não trabalho na área, porém estou a procura de conseguir obter experiência prática no futuro.
 
 
 <h6> Motivacional </h6>
