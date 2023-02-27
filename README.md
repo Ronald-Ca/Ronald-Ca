@@ -3,9 +3,9 @@
 
 - 💻 Entrei recentemente na área de Desenvolvimento Web . 
 
-- 📚 Buscando obter mais conhecimento em JavaScript e futuramente em React.
+- 📚 Aprimorando conhecimento sobre TypeScript e React.
 
-- 👨‍💻 Não trabalho na área, porém estou a procura de conseguir obter experiência prática no futuro.
+- 👨‍💻 Trabalhando como desenvolvedor Full-Stack.
 
 
 <h6> Motivacional </h6>
