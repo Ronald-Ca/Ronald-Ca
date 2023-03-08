@@ -1,7 +1,7 @@
 ### 👋Olá, eu me chamo Ronald Camargo. 
 - 🎓 Sou Estudante de Engenharia da Computação na UFMT. 
 
-- 💻 Entrei recentemente na área de Desenvolvimento Web . 
+- 💻 Atuando na área de Desenvolvimento Web . 
 
 - 📚 Aprimorando conhecimento sobre TypeScript e React.
 
