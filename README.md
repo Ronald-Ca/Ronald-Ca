@@ -3,7 +3,7 @@
 
 - 💻 Atuando na área de Desenvolvimento Web . 
 
-- 📚 Aprimorando conhecimento sobre TypeScript e React.
+- 📚 Aprendendo sobre TypeScript e React.
 
 - 👨‍💻 Trabalhando como desenvolvedor Full-Stack.
 
