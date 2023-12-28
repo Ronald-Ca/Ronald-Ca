@@ -1,9 +1,9 @@
 ### 👋Olá, eu me chamo Ronald Camargo. 
-- 🎓 Sou Estudante de Engenharia da Computação na UFMT. 
+- 🎓 Bacharel em Engenharia da Computação pela UFMT. 
 
-- 💻 Atuando na área de Desenvolvimento Web . 
+- 💻 1 ano atuando na área de Desenvolvimento Sistemas Web. 
 
-- 📚 Aprendendo sobre TypeScript e React.
+- 📚 Estudando C#.
 
 - 👨‍💻 Trabalhando como desenvolvedor Full-Stack.
 
@@ -27,8 +27,9 @@
    <img align="center" alt="Ronald-HTML" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
    <img align="center" alt="Ronald-CSS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img align="center" alt="Ronald-JS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-   <img align="center" alt="Ronald-JS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-   <img align="center" alt="Ronald-JS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+   <img align="center" alt="Ronald-React" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+   <img align="center" alt="Ronald-TS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+   <img align="center" alt="Ronald-TS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c#/c#-original.svg">
 </div><br>
 
   
