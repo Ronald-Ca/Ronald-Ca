@@ -29,7 +29,8 @@
    <img align="center" alt="Ronald-JS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <img align="center" alt="Ronald-React" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
    <img align="center" alt="Ronald-TS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-   <img align="center" alt="Ronald-TS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c#/c#-original.svg">
+   <img align="center" alt="Ronald-C#" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Ronald-MongoDB" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div><br>
 
   
