@@ -1,9 +1,9 @@
 ### 👋Olá, eu me chamo Ronald Camargo. 
 - 🎓 Bacharel em Engenharia da Computação pela UFMT. 
 
-- 💻 1 ano atuando na área de Desenvolvimento Sistemas Web. 
+- 💻 2 anos atuando na área de Desenvolvimento Sistemas Web. 
 
-- 📚 Estudando C#.
+- 📚 Aperfeiçoando meus conhecimentos.
 
 - 👨‍💻 Trabalhando como desenvolvedor Full-Stack.
 
