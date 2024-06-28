@@ -12,7 +12,6 @@
 <div align="center">
    "<i>O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis.</i>"<br>
    <b>José de Alencar</b>
-
 </div>
 
 <br>
@@ -33,6 +32,7 @@
    <img align="center" alt="Ronald-MongoDB" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
    <img align="center" alt="Ronald-NodeJS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Ronald-GIT" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+   <img align="center" alt="Ronald-GIT" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
 </div><br>
 
   
