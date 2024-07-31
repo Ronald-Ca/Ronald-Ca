@@ -5,7 +5,7 @@
 
 - 📚 Aperfeiçoando meus conhecimentos.
 
-- 👨‍💻 Trabalhando como desenvolvedor Full-Stack.
+- 👨‍💻 Trabalhando como desenvolvedor Full-Stack Júnior.
 
 
 <h6> Motivacional </h6>
