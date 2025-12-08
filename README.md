@@ -37,12 +37,22 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ronald-Ca&show_icons=true&count_private=true&hide_border=true&title_color=BD93F9&icon_color=BD93F9&text_color=c9d1d9&bg_color=0d1117" alt="Ronald Camargo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-Ca&layout=compact&hide_border=true&title_color=BD93F9&text_color=c9d1d9&bg_color=0d1117" />
+  <a href="https://github.com/Ronald-Ca">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronald-Ca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-Ca&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronald-Ca&theme=midnight-purple&hide_border=true&background=0D1117&stroke=BD93F9&ring=BD93F9&fire=FF6E96&currStreakLabel=BD93F9" alt="Ronald's streak"/>
+  <a href="https://github.com/Ronald-Ca">
+    <img src="https://streak-stats.demolab.com?user=Ronald-Ca&theme=dracula&locale=pt_BR" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Ronald-Ca">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronald-Ca&theme=dracula&hide_border=true" alt="Contribution Graph" />
+  </a>
 </div>
 
 ---
@@ -139,17 +149,9 @@
 ---
 
 <div align="center">
-  
-### 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/Ronald-Ca/Ronald-Ca/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-  
 ![Visitors](https://komarev.com/ghpvc/?username=Ronald-Ca&color=BD93F9&style=for-the-badge&label=VISITANTES)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=100&section=footer"/>
 
 </div>
