@@ -1,46 +1,155 @@
-### 👋Olá, eu me chamo Ronald Camargo. 
-- 🎓 Bacharel em Engenharia da Computação pela UFMT. 
-
-- 💻 2 anos atuando na área de Desenvolvimento Sistemas Web. 
-
-- 📚 Aperfeiçoando meus conhecimentos.
-
-- 👨‍💻 Trabalhando como desenvolvedor Full-Stack Júnior.
-
-
-<h6> Motivacional </h6>
 <div align="center">
-   "<i>O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis.</i>"<br>
-   <b>José de Alencar</b>
+  
+# 👋 Olá, eu me chamo Ronald Camargo
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full+Stack;3%2B+anos+de+experi%C3%AAncia;React+%7C+TypeScript+%7C+Node.js;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
 <br>
-<h2>Conhecimento</h2>
-<div align="center">
-  <a href="https://https://github.com/Ronald-Ca">
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=Ronald-Ca&show_icons=true&theme=radical">
-  <img width="288px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-Ca&theme=radical&show_icons=true">
-</div><br>
-  
-<div align="center"><br>
-   <img align="center" alt="Ronald-HTML" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-   <img align="center" alt="Ronald-CSS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-   <img align="center" alt="Ronald-JS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-   <img align="center" alt="Ronald-React" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-   <img align="center" alt="Ronald-TS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-   <img align="center" alt="Ronald-C#" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Ronald-MongoDB" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-   <img align="center" alt="Ronald-NodeJS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="Ronald-GIT" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-   <img align="center" alt="Ronald-GIT" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
-</div><br>
 
-  
-  <h6> Contatos </h6>
-<div> 
-  <a href="https://api.whatsapp.com/send?phone=5566984043892&text=Ol%C3%A1%20sou%20Ronald%20Camargo%2C%20iniciante%20em%20Front%20End!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://instagram.com/ronald_camargo_?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ronaldcamargodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ronald-camargo-04b942238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+### 💫 Sobre mim
+
+- 🎓 **Bacharel em Engenharia da Computação** pela UFMT
+- 💻 **3 anos** atuando na área de Desenvolvimento de Sistemas Web
+- 🎯 Atualmente **Desenvolvedor Full Stack** na Tav Web Ltda
+- 📚 Cursando **Pós Tech Developer 360** na Rocketseat
+- 🚀 Focado em **React**, **TypeScript**, **Node.js** e **Next.js**
+
+<br clear="both">
+
+---
+
+<div align="center">
+
+### 💭 Motivacional
+
+> *"O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis."*
+>
+> **— José de Alencar**
+
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ronald-Ca&show_icons=true&count_private=true&hide_border=true&title_color=BD93F9&icon_color=BD93F9&text_color=c9d1d9&bg_color=0d1117" alt="Ronald Camargo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-Ca&layout=compact&hide_border=true&title_color=BD93F9&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronald-Ca&theme=midnight-purple&hide_border=true&background=0D1117&stroke=BD93F9&ring=BD93F9&fire=FF6E96&currStreakLabel=BD93F9" alt="Ronald's streak"/>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Front-End
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Back-End
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Experiência Profissional
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Tav Web Ltda
+**Desenvolvedor Full Stack Júnior**  
+`Ago/2024 - Presente`
+
+- React, TypeScript, Tailwind CSS e Next.js
+- Node.js, Fastify e Prisma ORM
+- PostgreSQL e APIs RESTful
+- Material UI, Recharts, Zod
+
+</td>
+<td width="50%">
+
+### 🏢 ATM Soluções / BSN Solutions
+**Desenvolvedor Full Stack Júnior**  
+`Nov/2022 - Ago/2024`
+
+- React, TypeScript e Node.js
+- MongoDB, MySQL, SQL Server
+- AWS S3, WebSocket, Webhooks
+- Docker, Postman, metodologias ágeis
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Formação
+
+- 🎓 **Bacharelado em Engenharia da Computação** - UFMT (2018 - 2023)
+- 🚀 **Pós Tech Developer 360** - Rocketseat (2025 - 2026)
+
+---
+
+## 📫 Contatos
+
+<div align="center">
+  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5566984043892&text=Olá%20Ronald!)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ronald_camargo_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldcamargodev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-camargo-04b942238/)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🐍 Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/Ronald-Ca/Ronald-Ca/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Visitors](https://komarev.com/ghpvc/?username=Ronald-Ca&color=BD93F9&style=for-the-badge&label=VISITANTES)
+
+</div>
