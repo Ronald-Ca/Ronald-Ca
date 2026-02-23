@@ -89,7 +89,7 @@
 <td width="50%">
 
 ### 🏢 Tav Web Ltda
-**Desenvolvedor Full Stack Júnior**  
+**Desenvolvedor Full Stack (Júnior III -> Pleno I)**  
 `Ago/2024 - Presente`
 
 - React, TypeScript, Tailwind CSS e Next.js
@@ -101,7 +101,7 @@
 <td width="50%">
 
 ### 🏢 ATM Soluções / BSN Solutions
-**Desenvolvedor Full Stack Júnior**  
+**Desenvolvedor Full Stack (Júnior I -> Júnior II)**  
 `Nov/2022 - Ago/2024`
 
 - React, TypeScript e Node.js
