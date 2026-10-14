@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6272A4,50:BD93F9,100:FF79C6&height=200&section=header&text=Ronald%20Camargo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20Pleno&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Ronald Camargo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6272A4,50:BD93F9,100:FF79C6&height=200&section=header&text=Ronald%20Camargo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20Pleno&descSize=18&descAlignY=58" width="100%" alt="Ronald Camargo" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=620&lines=React+%C2%B7+Node.js+%C2%B7+TypeScript;IA+aplicada+a+produto+%F0%9F%A4%96;~4+anos+construindo+produtos+web;Do+banco+de+dados+ao+app+publicado+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -89,11 +89,22 @@ const ronald = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ronald-Ca&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&locale=pt-br" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-Ca&layout=compact&langs_count=6&theme=dracula&hide_border=true&locale=pt-br" alt="Linguagens" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ronald-Ca&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&locale=pt-br&disable_animations=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-Ca&layout=compact&langs_count=6&theme=dracula&hide_border=true&locale=pt-br&disable_animations=true" alt="Linguagens" />
 
-<img src="https://streak-stats.demolab.com/?user=Ronald-Ca&theme=dracula&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com/?user=Ronald-Ca&theme=dracula&hide_border=true&locale=pt_BR&disable_animations=true" alt="Sequência de contribuições" />
 
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronald-Ca/Ronald-Ca/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Ronald-Ca/Ronald-Ca/output/github-snake.svg" alt="Cobrinha comendo o gráfico de contribuições" />
+</picture>
 </div>
 
 ---
