@@ -85,19 +85,6 @@ const ronald = {
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ronald-Ca&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&locale=pt-br&disable_animations=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-Ca&layout=compact&langs_count=6&theme=dracula&hide_border=true&locale=pt-br&disable_animations=true" alt="Linguagens" />
-
-<img src="https://streak-stats.demolab.com/?user=Ronald-Ca&theme=dracula&hide_border=true&locale=pt_BR&disable_animations=true" alt="Sequência de contribuições" />
-
-</div>
-
----
-
 ## 🐍 Contribuições
 
 <div align="center">
